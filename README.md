@@ -1,4 +1,3 @@
-
 # Next.js Reusable Form Template
 
 This project is a reusable form template built with [Next.js](https://nextjs.org), featuring both light and dark mode support. It provides a modern, accessible, and customizable form experience, making it easy to integrate into your own projects.
@@ -12,7 +11,6 @@ This project is a reusable form template built with [Next.js](https://nextjs.org
 - **Modern Design**: Clean, responsive layout with support for custom themes.
 
 ---
-
 
 ## Getting Started
 
@@ -33,7 +31,6 @@ Visit [http://localhost:3000](http://localhost:3000) to view the app.
 You can start editing the template by modifying files in the `app/` and `components/` directories. The form components are designed to be easily reusable and customizable.
 
 ---
-
 
 ## Learn More
 
